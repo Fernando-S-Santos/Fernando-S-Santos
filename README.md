@@ -1,4 +1,4 @@
-##  Bem-vindo(a) ao perfil do Fernando-S-Santos 
+## Bem-vindo(a) ao perfil do Fernando-S-Santos 😉 
 
 <div>
   <a href="https://github.com/Fernando-S-Santos">
@@ -18,6 +18,6 @@
   <a href = "mailto:ferssantos33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-s-santos-18345a67/" target="_blank"><img src="https://img.shields.io/badge/- LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  
+  ![ Animação de cobra ](https://github.com/Fernando-S-Santos/Fernando-S-Santos/blob/output/github-contribution-grid-snake.svg)
 
 </div>

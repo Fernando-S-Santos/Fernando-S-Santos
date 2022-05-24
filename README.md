@@ -1,6 +1,6 @@
-## Bem-vindo(a) ao perfil do Fernando-S-Santos 😁
+##  Bem-vindo(a) ao perfil do Fernando-S-Santos 😁
 
- <div>
+<div>
   <a href="https://github.com/Fernando-S-Santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-S-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-S-Santos&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -11,13 +11,13 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
 </div>
  
- <br>
+<br>
  
 <div>
- <a href="https://discord.com/channels/@Fernando693#8067" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = "Hailto:fernandossantos93@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-s-santos-18345a67/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/channels/@Fernando693#8067" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for -the-badge&logo= discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ferssantos33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernando-s-santos-18345a67/" target="_blank"><img src="https://img.shields.io/badge/- LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Animação de cobra](https://github.com/Fernando-S-Santos/Fernando-S-Santos/blob/output/github-contribution-grid-snake.svg)
+  ![ Animação de cobra ](https://github.com/Fernando-S-Santos/Fernando-S-Santos/blob/output/github-contribution-grid-snake.svg)
 
 </div>

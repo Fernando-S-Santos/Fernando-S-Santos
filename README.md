@@ -1,4 +1,4 @@
-##  Bem-vindo(a) ao perfil do Fernando-S-Santos 😁
+##  Bem-vindo(a) ao perfil do Fernando-S-Santos 
 
 <div>
   <a href="https://github.com/Fernando-S-Santos">

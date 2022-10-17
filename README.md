@@ -19,8 +19,6 @@
  
 <br>
   
-![](https://komarev.com/ghpvc/?username=Fernando-S-Santos-github-username&color=blue)
-  
 <div>
   <h3 align="left">Connect with me:</h3>
 <p align="left">

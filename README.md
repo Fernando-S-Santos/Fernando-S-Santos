@@ -27,8 +27,6 @@
   <a href="https://instagram.com/fernando__s.santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@Fernando693#8067" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-     badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-s-santos-18345a67/" target="_blank"><img src="https://img.shields.io/badge/- LinkedIn-%230077B5?style= for-the- badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fernando-S-Santos&theme=tokyonight_duo&hide_border=falso&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 ![ Animação de cobra ](https://github.com/Fernando-S-Santos/Fernando-S-Santos/blob/output/github-contribution-grid-snake.svg)
 

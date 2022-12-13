@@ -1,15 +1,11 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=Ol%C3%A1+%F0%9F%91%8B+seja+Bem-vindo(a);ao+meu+perfil+Fernando-S-Santos)](https://git.io/typing-svg)
 
-
 <div>
   <h3>📊 GitHub Stats:</h3><hr>
-  <a href="https://github-profile-trophy.vercel.app/?username=Fernando-S-Santos-ma&theme=nord">
-</div>
-  
-<div>
+  <div align="center">
   <a href="https://github.com/Fernando-S-Santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-S-Santos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-S-Santos&layout=compact&langs_count=6&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-S-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-S-Santos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -19,7 +15,7 @@
   <img align="center" alt="Fer-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
 ##

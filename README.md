@@ -11,9 +11,9 @@
 ##
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fernando-S-Santos&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Fernando-S-Santos&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fernando-S-Santos&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-S-Santos&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-S-Santos&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h2 align="left">💻 Tech Stack:</h2>
 <div style="display: inline_block"><br>
@@ -36,7 +36,7 @@ src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&lo
   <a href="https://instagram.com/fernando__s.santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ferssantos33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@Fernando693#8067" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- 
-![Snake animation](https://github.com/Fernando-S-Santos/Fernando-S-Santos/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/Fernando-S-Santos/Fernando-S-Santos/blob/output/github-contribution-grid-snake.svg)
 </div>
   
